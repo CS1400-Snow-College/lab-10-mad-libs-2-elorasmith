@@ -25,15 +25,12 @@ class Program {
                 if (story[word].Contains("::"))
                 {   
                     string newWord = FindCategory(story[word], ref wordCategories);
-                    Console.Write($"{newWord}, ");
+                    story[word] = newWord;
                 }
-                
-                // NEXT, REPLACE WORD WITH NEW WORD (CHECK LAB 8 OR ASK SNAPCHAT)
-                // WRITE STORY INTO ANOTHER FILE
-                
-            
             }
             Console.WriteLine("\n");
+            foreach (string word in story)
+                Console.Write($"{word} ");
         }
 
 
