@@ -1,0 +1,15 @@
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\bin\Debug\net8.0\lab-10-mad-libs-2-elorasmith.exe
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\bin\Debug\net8.0\lab-10-mad-libs-2-elorasmith.deps.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\bin\Debug\net8.0\lab-10-mad-libs-2-elorasmith.runtimeconfig.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\bin\Debug\net8.0\lab-10-mad-libs-2-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\bin\Debug\net8.0\lab-10-mad-libs-2-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.AssemblyInfoInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.AssemblyInfo.cs
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.csproj.CoreCompileInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.sourcelink.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\refint\lab-10-mad-libs-2-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\lab-10-mad-libs-2-elorasmith.genruntimeconfig.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-10-mad-libs-2-elorasmith\obj\Debug\net8.0\ref\lab-10-mad-libs-2-elorasmith.dll
