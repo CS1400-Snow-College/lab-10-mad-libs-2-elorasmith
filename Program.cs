@@ -28,10 +28,13 @@ class Program {
                     story[word] = newWord;
                 }
             }
-            Console.WriteLine("\n");
-            foreach (string word in story)
-                Console.Write($"{word} ");
+            string generatedStory = string.Join(" ", story);
+            FileStream stream = File.Open("generatedstory1.txt", FileMode.Create);
+            StreamWriter writer = new StreamWriter(stream);
+            writer.Write(generatedStory);
+            writer.Close();
         }
+
 
 
         static string FindCategory(string word, ref Dictionary <string, List <string>> wordCategories)
@@ -58,5 +61,3 @@ class Program {
     }
 }
 
-// story2 = 12 words to change
-// story1 = 12 words to change
