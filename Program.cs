@@ -18,7 +18,6 @@ class Program {
         for (int i = 0; i < filenames.Length; i++) 
         {
             stories[i] = File.ReadAllText(filenames[i]);
-            //Console.WriteLine(stories[1]);
             string[] story = stories[i].Split(' ');
             for (int word = 0; word < story.Length; word++)
             {
@@ -28,11 +27,8 @@ class Program {
                     story[word] = newWord;
                 }
             }
-            string generatedStory = string.Join(" ", story);
-            FileStream stream = File.Open("generatedstory1.txt", FileMode.Create);
-            StreamWriter writer = new StreamWriter(stream);
-            writer.Write(generatedStory);
-            writer.Close();
+            string generatedStory = string.Join(' ', story);
+            File.WriteAllText($"generatedStory{i+1}.txt", generatedStory);
         }
 
 
